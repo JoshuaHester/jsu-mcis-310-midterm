@@ -62,5 +62,5 @@ public class HangmanTest {
     public void testGuessingEveryLetterBeforeSixMissesCausesAWin() {
         assertTrue(false);
     }
-    
+  
 }
