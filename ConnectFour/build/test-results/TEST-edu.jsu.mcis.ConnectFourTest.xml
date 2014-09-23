@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.jsu.mcis.ConnectFourTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2014-09-23T19:19:41" hostname="Joshua-HP" time="0.025">
+  <properties/>
+  <testcase name="testRedWinVerticallyInCenterColumn" classname="edu.jsu.mcis.ConnectFourTest" time="0.022"/>
+  <testcase name="testNewGameShouldHaveAllEmptyColumns" classname="edu.jsu.mcis.ConnectFourTest" time="0.0"/>
+  <testcase name="testDropFirstTokenInCenterShouldBeRedAndThenSecondTokenInCenterShouldBeBlack" classname="edu.jsu.mcis.ConnectFourTest" time="0.0"/>
+  <testcase name="testFillSecondColumnFromLeftShouldLeaveNoAbilityToDropToken" classname="edu.jsu.mcis.ConnectFourTest" time="0.0"/>
+  <testcase name="testBlackWinHorizontallyInSecondRowFromBottom" classname="edu.jsu.mcis.ConnectFourTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
